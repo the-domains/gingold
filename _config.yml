@@ -1,6 +1,6 @@
 name: gingold
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.52861
 typography_spectrum: 0.74562
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#00afd1'
     - '#94d8e9'
     - '#45bfd7'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.875
-  rhythmicContrast: 0.5
+  brandStrength: 0.25
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
