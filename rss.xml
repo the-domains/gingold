@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[gingold]]></title>
         <description><![CDATA[gingold]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gingold/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 11:02:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Dec 2015 11:02:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gingold/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My First Post]]></title>
             <description><![CDATA[<article><h1>My First Post</h1><p>This is my first post on the 'grid'. It might be good; it might be bad. But it's a first.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/745a596e-4587-4dba-abd2-a4562953e9a2.png"></article>]]></description>
-            <link>undefinedmy-first-post/index.html</link>
+            <link>https://thegrid.ai/gingold/my-first-post/index.html</link>
             <guid isPermaLink="false">4d195271-e50d-4dd8-a003-1aee1f548487</guid>
-            <pubDate>Wed, 02 Dec 2015 11:02:10 GMT</pubDate>
+            <pubDate>Wed, 02 Dec 2015 11:02:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
