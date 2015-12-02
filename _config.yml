@@ -1,7 +1,7 @@
 name: gingold
 favicon: null
-layout_spectrum: 0.9647400449030101
-typography_spectrum: 0.9062397060915828
+layout_spectrum: 1
+typography_spectrum: 0.74562
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8964085322804749
-  lightness: 0.31754171079955995
-  saturation: 0.5743236979469657
-  rhythmicContrast: 0.46069579292088747
+    - '#ffffff'
+    - '#676767'
+    - '#00afd1'
+    - '#94d8e9'
+    - '#45bfd7'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
