@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/121989211'
+inLanguage: en
+starred: false
+keywords:
+  - orkestra
+  - gingold
+  - technology
+  - filament
+  - machine
+  - artificial
+  - sound
+  - redundancy
+  - computing
+  - intention
+description: 'Filament Orkestra is an installation about the intersection of technology, communication desire and memory. It uses very simple technologies including FM radios, light bulbs, relays, speakers and tiny Arduino computers, but multiplies and interconnects these technologies to create a deliberately and overly complex system.'
+datePublished: '2015-12-02T11:25:45.879Z'
+dateModified: '2015-12-02T11:24:24.970Z'
 author:
   - name: Matthew Gingold
     url: 'http://vimeo.com/gameoverload'
@@ -14,38 +34,20 @@ author:
           - 120
           - 126
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords:
-  - orkestra
-  - gingold
-  - technology
-  - filament
-  - machine
-  - artificial
-  - sound
-  - redundancy
-  - computing
-  - intention
-description: 'Filament Orkestra is an installation about the intersection of technology, communication desire and memory. It uses very simple technologies including FM radios, light bulbs, relays, speakers and tiny Arduino computers, but multiplies and interconnects these technologies to create a deliberately and overly complex system.'
-inLanguage: en
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/121989211'
     type: ios
     app_store_id: '425194759'
     app_name: Vimeo
-isBasedOnUrl: 'https://vimeo.com/121989211'
 title: Filament Orkestra
-datePublished: '2015-12-02T11:21:16.337Z'
-dateModified: '2015-12-02T11:20:50.660Z'
 sourcePath: _posts/2015-12-02-filament-orkestra.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
