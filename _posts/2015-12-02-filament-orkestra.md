@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://vimeo.com/121989211'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - computing
   - intention
 description: 'Filament Orkestra is an installation about the intersection of technology, communication desire and memory. It uses very simple technologies including FM radios, light bulbs, relays, speakers and tiny Arduino computers, but multiplies and interconnects these technologies to create a deliberately and overly complex system.'
-datePublished: '2015-12-02T11:25:45.879Z'
-dateModified: '2015-12-02T11:24:24.970Z'
+datePublished: '2015-12-02T11:26:41.819Z'
+dateModified: '2015-12-02T11:26:38.470Z'
 author:
   - name: Matthew Gingold
     url: 'http://vimeo.com/gameoverload'
@@ -48,6 +47,7 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+url: filament-orkestra/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
