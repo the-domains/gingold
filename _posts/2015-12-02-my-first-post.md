@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: "Well, it's a first post aint it?"
-datePublished: '2015-12-02T11:02:56.226Z'
-dateModified: '2015-12-02T11:02:47.137Z'
+datePublished: '2015-12-02T11:17:04.237Z'
+dateModified: '2015-12-02T11:16:51.014Z'
 title: My First Post
 author: []
+sourcePath: _posts/2015-12-02-my-first-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-02-my-first-post.md
-published: true
 url: my-first-post/index.html
 _type: Article
 
