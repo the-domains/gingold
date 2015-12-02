@@ -4,7 +4,7 @@
         <description><![CDATA[gingold]]></description>
         <link>https://thegrid.ai/gingold/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 11:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Dec 2015 11:14:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gingold/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My First Post]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/gingold/my-first-post/index.html</link>
             <guid isPermaLink="false">4d195271-e50d-4dd8-a003-1aee1f548487</guid>
             <pubDate>Wed, 02 Dec 2015 11:02:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Second Post]]></title>
+            <description><![CDATA[<article><h1>My Second Post</h1><p>And this is my second post. It's a lot more exciting than the last post because it's the second post.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45ed2cd5-802e-42a1-b098-34c903f74b62.png"></article>]]></description>
+            <link>https://thegrid.ai/gingold/my-second-post/index.html</link>
+            <guid isPermaLink="false">b373cdba-002a-4ac4-a7b3-dfeb90bdc12a</guid>
+            <pubDate>Wed, 02 Dec 2015 11:14:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
